@@ -11,9 +11,7 @@ $ chmod +x install.sh
 
 $ sh install.sh
 
-$ sudo python3 col -p <selected Port> 
-
+$ sudo python3 col.py -p <selected Port> 
 or
-
 $ sh auto-start.sh
 
